@@ -1,4 +1,4 @@
-<h1>Hi, I'm Donovan, an <a href="https://linkedin.com/indonovan-roundtree-4646b5227/">IT Professional</a>☺</h1>
+<h1>Hi, I'm Donovan, an <a href="https://linkedin.com/donovan-roundtree-4646b5227/">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
